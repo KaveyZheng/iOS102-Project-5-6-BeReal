@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://user-images.githubusercontent.com/109322859/228392136-590750c1-4ba6-4f66-a4a2-cab85223cc91.gif
+![project5](https://user-images.githubusercontent.com/109322859/228392324-c74da07f-57bd-46d1-a608-2eca80555bdc.gif)
 
 GIF created with LICEcap  
 
