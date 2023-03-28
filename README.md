@@ -17,13 +17,10 @@ The following **optional** features are implemented:
 - [x] User stays logged in when app is closed and open again	
 
 ## Video Walkthrough
+
 ![project5](https://user-images.githubusercontent.com/109322859/228392324-c74da07f-57bd-46d1-a608-2eca80555bdc.gif)
 
 GIF created with LICEcap  
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
