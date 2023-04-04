@@ -1,6 +1,23 @@
-# Project 5 - *BeReal Clone*
+# Project 6 - *BeReal Clone*
 
 Submitted by: **Kavey Zheng**
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
+
+## Video Walkthrough
+
+![project6](https://user-images.githubusercontent.com/109322859/229675400-56cf4952-cc62-4841-a884-a6e28633f9e9.gif)
+
+GIF created with LICEcap
+
+# Project 5
 
 ## Required Features
 
